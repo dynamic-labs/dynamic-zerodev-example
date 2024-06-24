@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <DynamicContextProvider
       settings={{
-        environmentId: "b93dc1e8-974f-479b-92b5-eafa7daf92de",
+        environmentId: "03e4b391-ad82-473b-b46c-59f38b2ea6bf",
         walletConnectors: [
           EthereumWalletConnectors,
           ZeroDevSmartWalletConnectors,
